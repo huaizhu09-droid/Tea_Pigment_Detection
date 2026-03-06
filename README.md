@@ -1,0 +1,2 @@
+# Tea_Pigment_Detection
+Tea Pigment Detection System 是一个基于计算机视觉和机器学习的智能检测系统，用于自动测量茶叶汤色中三种关键色素的含量
